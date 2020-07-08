@@ -1,6 +1,6 @@
 # Machine-Learning/Data analysis with Python and Jupyter
 
-## What this repository is about?
+## What is this repository about?
 * Following the tutorials I found on YouTube and KhanAcademy, I implement data analysis projects on data from <a href="https://www.kaggle.com/">Kaggle</a> and build
 machine learning projects using the <a href="https://scikit-learn.org/stable/">scikit learn</a> library.
 
