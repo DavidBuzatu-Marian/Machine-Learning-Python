@@ -6,7 +6,7 @@ machine learning projects using the <a href="https://scikit-learn.org/stable/">s
 
 ## Authors
 
-* **David - Marian Buzatu** - *Front-end developer* - [GitHub Profile](https://github.com/davidbuzatu-marian)
+* **David - Marian Buzatu** - [GitHub Profile](https://github.com/davidbuzatu-marian)
 
 ## License
 
