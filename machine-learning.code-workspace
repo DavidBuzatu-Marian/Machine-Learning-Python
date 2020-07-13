@@ -1,11 +1,14 @@
 {
   "folders": [
-	{
-		"path": "machine-learning-python"
-	},
-	{
-		"path": "data-analysis-python"
-	}
-],
+    {
+      "path": "machine-learning-python"
+    },
+    {
+      "path": "data-analysis-python"
+    },
+    {
+      "path": "neural-networks"
+    }
+  ],
   "settings": {}
 }
